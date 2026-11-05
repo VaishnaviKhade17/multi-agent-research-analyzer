@@ -1,0 +1,27 @@
+
+# LLM / OpenAI
+openai
+langchain-openai
+langchain-ollama
+
+# LangChain
+langchain
+langchain-core
+langchain-community
+
+# Agent / Workflow orchestration
+langgraph
+
+# Web Search
+tavily-python
+
+# Web Scraping
+beautifulsoup4
+requests
+
+# Environment Variables
+python-dotenv
+
+# Optional: HTML parsing support
+lxml
+rich
